@@ -1,2 +1,2 @@
-# -Project-CustomMazeSolver
-An app to solve user-made mazes using BFS alghorithm. [The comments are in Polish though]
+# -Project-ProjektSI
+Prosty w obsłudze program do odnajdywania ścieżek w labiryncie.
